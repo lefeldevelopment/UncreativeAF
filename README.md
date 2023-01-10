@@ -5,8 +5,9 @@
 
 ## I'm a Student and Hobby-developer!!
 
-- 🌱 I’m currently graduating
-- ⚡ I'm learning Python for 4 years, and am trying to master it
+- 🌱 I’m currently a student but always looking for new opportunities and projects to work on
+- ⚡ I have been learning Python for 4 years and striving to master it every day
+- 🚀 I have a passion for creating unique and beautiful designs and bringing them to life through code
 
 <br />
 
